@@ -1,6 +1,6 @@
-# Java - Número de Amstrong
+# Java - Número de Armstrong
 
-Se quiere desarrollar un programa que determine si un número es un número de Amstrong. Un número de Amstrong es aquel que es igual a la suma de sus dígitos elevados a la potencia de su número de cifras.
+Se quiere desarrollar un programa que determine si un número es un número de Armstrong. Un número de Armstrong es aquel que es igual a la suma de sus dígitos elevados a la potencia de su número de cifras.
 
 Por ejemplo, el número 371 es un número que cumple dicha característica ya que tiene tres cifras y:
 
